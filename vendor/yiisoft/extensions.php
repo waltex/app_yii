@@ -57,13 +57,4 @@ return array (
       '@yii/jui' => $vendorDir . '/yiisoft/yii2-jui',
     ),
   ),
-  'sheillendra/yii2-helpers' => 
-  array (
-    'name' => 'sheillendra/yii2-helpers',
-    'version' => '9999999-dev',
-    'alias' => 
-    array (
-      '@sheillendra/helpers' => $vendorDir . '/sheillendra/yii2-helpers',
-    ),
-  ),
 );
