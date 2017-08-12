@@ -1,1 +1,1 @@
-echo 'start app10';
+echo 'start app12';
